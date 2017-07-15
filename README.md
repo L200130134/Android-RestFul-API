@@ -15,8 +15,8 @@ Screenshots
 
 ### RecyclerView
 
-[![main refresh](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/main-refresh.png)
-[![main error](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/main-error.png)
+[![main refresh](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/main-refresh.png)](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/rsz_main-refresh.png)
+[![main error](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/main-error.png)](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/rsz_main-error.png)
 
 
 ### Simple Output
