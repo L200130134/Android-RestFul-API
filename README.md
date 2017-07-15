@@ -1,18 +1,14 @@
 ---
-title: Solarized
-description: Precision colors for machines and people
-author: Ethan Schoonover
-tags: test, testing, test123
-colors: light yellow
-created:  2011 Mar 15
-modified: 2011 Apr 16
+Nama: Riky Ahmad Fathoni
+Mata Kuliah: Sistem Informasi Terdistribusi
+Languages: Java (Android)
 
 ---
 
-Solarized
+Android-RestFul-API
 =========
 
-## Precision colors for machines and people
+## Simple project android webservices with rest architecture (Tugas Sistem Informasi Terdistribusi).
 
 [![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
 
