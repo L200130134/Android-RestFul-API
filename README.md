@@ -10,6 +10,9 @@ Android-RestFul-API
 
 Simple project android webservices with rest architecture (Tugas Sistem Informasi Terdistribusi).
 
+[![haskell dark](https://github.com/altercation/solarized/raw/master/img/screen-haskell-dark-th.png)](https://github.com/altercation/solarized/raw/master/img/screen-haskell-dark.png)
+[![haskell light](https://github.com/altercation/solarized/raw/master/img/screen-haskell-light-th.png)](https://github.com/altercation/solarized/raw/master/img/screen-haskell-light.png)
+
 [![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
 
 Solarized is a sixteen color palette (eight monotones, eight accent colors)
