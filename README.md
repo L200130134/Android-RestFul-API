@@ -7,7 +7,7 @@ Languages: Java (Android)
 Android RestFul API
 =========
 
-Simple project android webservices with rest architecture (Tugas Sistem Informasi Terdistribusi).
+Simple project android webservices with rest architecture (RestFul API).
 
 Screenshots
 -----------
@@ -23,8 +23,11 @@ Click image to view.
 
 [![simple respone1](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/rsz_response-1.png)](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/response-1.png)
 [![simple respone2](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/rsz_response-1.png)](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/response-2.png)
----
-Nama: Riky Ahmad Fathoni
-Mata Kuliah: Sistem Informasi Terdistribusi
-Languages: Java (Android)
----
+
+Commit For
+-----------
+Tugas Sistem Informasi Terdistribusi.
+
+Just Info
+-----------
+Recommended to use Retrofit rest api for better performance in android webservices.
