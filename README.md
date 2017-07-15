@@ -1,3 +1,9 @@
+---
+Nama: Riky Ahmad Fathoni
+Mata Kuliah: Sistem Informasi Terdistribusi
+Languages: Java (Android)
+---
+
 Android RestFul API
 =========
 
@@ -17,10 +23,8 @@ Click image to view.
 
 [![simple respone1](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/rsz_response-1.png)](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/response-1.png)
 [![simple respone2](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/rsz_response-1.png)](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/response-2.png)
-
 ---
 Nama: Riky Ahmad Fathoni
 Mata Kuliah: Sistem Informasi Terdistribusi
 Languages: Java (Android)
-
 ---
