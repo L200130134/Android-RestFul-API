@@ -1,7 +1,7 @@
 ---
-Nama: Riky Ahmad Fathoni
+Pengampu: Bana Handaga
 Mata Kuliah: Sistem Informasi Terdistribusi
-Languages: Java (Android)
+Kelas: A
 ---
 
 Android RestFul API
