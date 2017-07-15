@@ -26,7 +26,7 @@ Click image to view.
 
 Commit For
 -----------
-Task for Sistem Informasi Terdistribusi.
+Sistem Informasi Terdistribusi Task.
 
 Just Info
 -----------
