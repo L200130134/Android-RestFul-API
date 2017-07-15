@@ -1,7 +1,7 @@
 ---
-Pengampu: Bana Handaga
-Mata Kuliah: Sistem Informasi Terdistribusi
-Kelas: A
+Lecturer: Bana Handaga
+Courses: Sistem Informasi Terdistribusi
+Class: A
 ---
 
 Android RestFul API
@@ -26,7 +26,7 @@ Click image to view.
 
 Commit For
 -----------
-Tugas Sistem Informasi Terdistribusi.
+Task for Sistem Informasi Terdistribusi.
 
 Just Info
 -----------
