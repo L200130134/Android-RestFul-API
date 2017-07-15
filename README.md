@@ -20,6 +20,6 @@ Screenshots
 
 ### Simple Output
 
-[![main refresh](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/rsz_response-1.png)](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/response-1.png)
-[![main error](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/rsz_response-1.png)](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/response-2.png)
+[![simple respone1](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/rsz_response-1.png)](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/response-1.png)
+[![simple respone2](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/rsz_response-1.png)](https://github.com/L200130134/Android-RestFul-API/raw/master/demo/Screenshoot/response-2.png)
 
