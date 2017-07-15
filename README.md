@@ -25,4 +25,5 @@ Commit Info
 Nama: Riky Ahmad Fathoni
 Mata Kuliah: Sistem Informasi Terdistribusi
 Languages: Java (Android)
+
 ---
