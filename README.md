@@ -8,7 +8,7 @@ Languages: Java (Android)
 Android-RestFul-API
 =========
 
-## Simple project android webservices with rest architecture (Tugas Sistem Informasi Terdistribusi).
+Simple project android webservices with rest architecture (Tugas Sistem Informasi Terdistribusi).
 
 [![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
 
