@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="21dp"
+    android:paddingLeft="25dp"
+    android:paddingRight="25dp"
+    android:paddingTop="12dp">
+
+    <TextView
+        android:id="@+id/error_response"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="text here!"
+        android:textSize="14.7sp" />
+</RelativeLayout>
